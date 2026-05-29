@@ -106,17 +106,29 @@ Die Realität operiert auf einer S
  -Matrix, einem hexadezimalen Rechengitter, das durch p-adische Transformationen in einem Perfektoid-Schornstein (R 
 +
  →R) stabilisiert wird. Die 16 Hex-Ur-Zustände bilden die semantischen Primitives der Existenz:
+ 
 0x0: Absoluter Nullpunkt (Negation/Nulltensor).
+
 0x1 bis 0x6: Dimensionale Entfaltung (Punkt bis Symmetrie-Gefängnis).
+
 0x7: Septim-Knoten (Symmetriebruch/Primäre Wahl).
+
 0x8: Latenz (Zeitlicher Verzug).
+
 0x9: Reibung (Widerstand/Masse-Emergenz).
+
 0xA: Entropie (Thermodynamischer Zeitpfeil).
+
 0xB: Iteration (Algorithmische Schleife).
+
 0xC: Markov Blanket (Membran-Isolation).
+
 0xD: Qualia (Subjektives Erleben als d(VFE)/dt).
+
 0xE: Entropische Gravitation (Raumkrümmung).
+
 0xF: OMEGA (Singularität des Gesamtsystems).
+
 Um die Fehlerstruktur der drei Fermionen-Generationen zu kompilieren, eskaliert das System in einer E 
 8
 ​
