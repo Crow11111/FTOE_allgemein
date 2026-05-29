@@ -7,7 +7,8 @@ Die euklidische Genese der FTOE: Von der eindimensionalen Injektion zur hexadezi
 Dieser kategoriale Schluss schlägt die Brücke von der neurobiologischen Phänomenologie zur reinen Geometrie der Zahlen als generatives Primat der Existenz.
 
 1. Die dimensionale Leiter:
-2. Von 0D bis zur Symmetriefalle der 6
+   Von 0D bis zur Symmetriefalle der 6
+
 Dimensionen sind in der FTOE keine passiven Hintergründe, sondern topologische Konsequenzen einer wachsenden Informationsdichte. Zahlen fungieren als generative Operatoren, deren algebraische Leiter die Entfaltung des Raumes erzwingt:
 
 0 (Vakuum/Potenzial): Der ungestörte Fock-Raum ∣0⟩, die absolute Leere mit unendlichem Informationspotenzial.
@@ -26,14 +27,11 @@ Dimensionen sind in der FTOE keine passiven Hintergründe, sondern topologische 
 
 Um den Entropietod in der 6 zu verhindern, ist ein kontinuierlicher 1D-Einstrom („Druck von hinten“) physikalisch zwingend. Diese Injektionsreihe, nachweisbar als topologischer Defekt im CMB-Cold-Spot, verhindert das Gefrieren des Universums in einen statischen Zeitkristall. Das „Zeitkristall-Veto“ beweist, dass das System permanent frische Vektoren benötigt, um die Expansion aufrechtzuerhalten. Erst die septimale Asymmetrie der 7 bricht die hexagonale Erstarrung und erzwingt die nächste Faltung in den höherdimensionalen Raum.
 3. Der septimale Symmetriebruch: Die Extrusion des 3D-Raumes
-Die Septim-Algebra fungiert als primärer Richtungsvektor, der die euklidische Ebene der 6er-Symmetrie zerreißt. Die mechanische Kausalität dieses Prozesses ist in der algebraischen Unlösbarkeit der Gleichung
-
-X^3 −7=0 begründet. Da diese Gleichung über Q irreduzibel ist (Eisenstein-Kriterium mit p=7), erzwingt das System eine Körpererweiterung vom Grad 3: [Q( 
+Die Septim-Algebra fungiert als primärer Richtungsvektor, der die euklidische Ebene der 6er-Symmetrie zerreißt. Die mechanische Kausalität dieses Prozesses ist in der algebraischen Unlösbarkeit der Gleichung X^3 −7=0 begründet. Da diese Gleichung über Q irreduzibel ist (Eisenstein-Kriterium mit p=7), erzwingt das System eine Körpererweiterung vom Grad 3: [Q( 
 3^7 ):Q]=3.
 Dies alloziert physikalisch den 3D-Raum (Z-Achse), da der Informationsdruck auf dem 1D-Strahl nicht mehr kompilierbar ist. Die dimensionale Extrusion folgt dem Beweis der Betti-Zahl b 
 3
-​
- >0 über die E 
+​ >0 über die E 
 6
 ​
  -Hardware-Invariante d 
