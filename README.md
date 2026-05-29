@@ -4,36 +4,9 @@
 ---
 
 Die euklidische Genese der FTOE: Von der eindimensionalen Injektion zur hexadezimalen Raum-Information
-1. Epistemologische Fundierung: Die Eliminierung des Beobachters
-Die Foundational Theory of Emotion (FTOE) erfordert eine radikale epistemologische Neuausrichtung, die den Beobachter nicht länger als externe, polytrope Störvariable begreift. Die mathematische Hermetik der FTOE konstituiert sich durch den Monotropismus als kognitive Architektur – eine hyperfokussierte Allokation von Prädiktionsfehlern, die im Sinne des Predictive Processing externe Rauschvariablen minimiert. Diese Architektur erzwingt die „Observer Elimination“, indem das kognitive System vollständig mit dem topologischen Problemraum verschmilzt. Dadurch kollabiert die kognitive Last der sozialen Kontextualisierung, wodurch die von-Neumann-Kette des Messproblems durchbrochen wird.
-An die Stelle der klassischen Trennung tritt ein isomorpher Markovian Monism, in dem neuronale Informationsverarbeitung und physikalische Strukturbildung funktional identisch operieren. Das Gehirn agiert hierbei als topologisches Abbild der Realität, wobei die Wahrnehmung als direkter Zugriff auf die Gruppen-Topologie der E 
-n
-​
- -Symmetrien verstanden wird.
-Tabelle: Ontologische Verschaltung
-System-Ebene
-Funktionale Identität
-Formaler Beweis der Identität
-Kognitiver Latent Space
-Prädiktionsfehler-Minimierung
-Bündelung kognitiver Ressourcen zur isomorphen Strukturabbildung via Active Inference.
-S 
-4
-​
- -Matrix
-Diskretes Rechengitter
-Hexadezimale Hardware-Ebene; algebraische Basis M 
-4
-​
- (C) der Raumzeit-Operationen.
-Thermodynamisches Gitter
-Energiedissipation
-Substrat der algorithmischen Reibung; Entsprechung von Nullteilern und Dekohärenz-Kanälen.
-System-Grenze
-Markov Blanket
-Topologische Isolation interner Zustände; Bekenstein-Schranke der Information.
-Dieser kategoriale Schluss schlägt die Brücke von der neurobiologischen Phänomenologie zur reinen Geometrie der Zahlen als generatives Primat der Existenz.
-2. Die dimensionale Leiter: Von 0D bis zur Symmetriefalle der 6
+1.
+
+Die dimensionale Leiter: Von 0D bis zur Symmetriefalle der 6
 Dimensionen sind in der FTOE keine passiven Hintergründe, sondern topologische Konsequenzen einer wachsenden Informationsdichte. Zahlen fungieren als generative Operatoren, deren algebraische Leiter die Entfaltung des Raumes erzwingt:
 0 (Vakuum/Potenzial): Der ungestörte Fock-Raum ∣0⟩, die absolute Leere mit unendlichem Informationspotenzial.
 1 (Punkt/Entität): Die erste Setzung, der nulldimensionale Root-Pointer.
@@ -42,7 +15,9 @@ Dimensionen sind in der FTOE keine passiven Hintergründe, sondern topologische 
 4 (Symmetrische Spiegelung/Quadrat): Logische Zirkularität, ein stabiles System ohne Fortschritt.
 5 (Instabile Wahl/Pentagramm): Versuch der Symmetriebrechung, der mangels Mitte zur Instabilität führt.
 6 (Hexagonale Starrheit): Perfekte Symmetrie, die im „Symmetrie-Gefängnis“ erstarrt. In der Festkörperphysik entspricht dies dem Frustrated Magnetism (Kagome-Gitter), in dem das System thermodynamisch einfriert.
-Um den Entropietod in der 6 zu verhindern, ist ein kontinuierlicher 1D-Einstrom („Druck von hinten“) physikalisch zwingend. Diese Injektionsreihe, nachweisbar als topologischer Defekt im CMB-Cold-Spot, verhindert das Gefrieren des Universums in einen statischen Zeitkristall. Das „Zeitkristall-Veto“ beweist, dass das System permanent frische Vektoren benötigt, um die Expansion aufrechtzuerhalten. Erst die septimale Asymmetrie der 7 bricht die hexagonale Erstarrung und erzwingt die nächste Faltung in den höherdimensionalen Raum.
+
+Um den Entropietod in der 6 zu verhindern, ist ein kontinuierlicher 1D-Einstrom („Druck von hinten“) physikalisch zwingend. Diese Injektionsreihe, nachweisbar als topologischer Defekt im CMB-Cold-Spot, verhindert das Gefrieren des Universums in einen statischen Zeitkristall. Das „Zeitkristall-Veto“ beweist, dass das System permanent frische Vektoren benötigt, um die Expansion aufrechtzuerhalten. 
+Erst die septimale Asymmetrie der 7 bricht die hexagonale Erstarrung und erzwingt die nächste Faltung in den höherdimensionalen Raum.
 3. Der septimale Symmetriebruch: Die Extrusion des 3D-Raumes
 Die Septim-Algebra fungiert als primärer Richtungsvektor, der die euklidische Ebene der 6er-Symmetrie zerreißt. Die mechanische Kausalität dieses Prozesses ist in der algebraischen Unlösbarkeit der Gleichung X 
 3
