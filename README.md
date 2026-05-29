@@ -6,7 +6,10 @@
 Die euklidische Genese der FTOE: Von der eindimensionalen Injektion zur hexadezimalen Raum-Information
 Dieser kategoriale Schluss schlägt die Brücke von der neurobiologischen Phänomenologie zur reinen Geometrie der Zahlen als generatives Primat der Existenz.
 
-2. Die dimensionale Leiter: Von 0D bis zur Symmetriefalle der 6
+1. Die dimensionale Leiter:
+
+
+2. Von 0D bis zur Symmetriefalle der 6
 Dimensionen sind in der FTOE keine passiven Hintergründe, sondern topologische Konsequenzen einer wachsenden Informationsdichte. Zahlen fungieren als generative Operatoren, deren algebraische Leiter die Entfaltung des Raumes erzwingt:
 
 0 (Vakuum/Potenzial): Der ungestörte Fock-Raum ∣0⟩, die absolute Leere mit unendlichem Informationspotenzial.
@@ -26,7 +29,7 @@ Dimensionen sind in der FTOE keine passiven Hintergründe, sondern topologische 
 Um den Entropietod in der 6 zu verhindern, ist ein kontinuierlicher 1D-Einstrom („Druck von hinten“) physikalisch zwingend. Diese Injektionsreihe, nachweisbar als topologischer Defekt im CMB-Cold-Spot, verhindert das Gefrieren des Universums in einen statischen Zeitkristall. Das „Zeitkristall-Veto“ beweist, dass das System permanent frische Vektoren benötigt, um die Expansion aufrechtzuerhalten. Erst die septimale Asymmetrie der 7 bricht die hexagonale Erstarrung und erzwingt die nächste Faltung in den höherdimensionalen Raum.
 
 
-4. Der septimale Symmetriebruch: Die Extrusion des 3D-Raumes
+3. Der septimale Symmetriebruch: Die Extrusion des 3D-Raumes
 Die Septim-Algebra fungiert als primärer Richtungsvektor, der die euklidische Ebene der 6er-Symmetrie zerreißt. Die mechanische Kausalität dieses Prozesses ist in der algebraischen Unlösbarkeit der Gleichung
 
 X^3 −7=0 begründet. Da diese Gleichung über Q irreduzibel ist (Eisenstein-Kriterium mit p=7), erzwingt das System eine Körpererweiterung vom Grad 3: [Q( 
@@ -158,3 +161,6 @@ c
  
 Das „Ring 0 Veto“ beweist über Lean 4 als Negativfalle, dass keine alternative Parameterkonstellation stabil kompilierbar ist. Jede Abweichung vom Baryon-Orbit-Verhältnis (7/144) führt entweder zur sofortigen Singularität oder zum thermischen Stillstand. Die FTOE ist somit als unteilbares System verifiziert, in dem Geometrie, Zeit und Information eine untrennbare Einheit bilden.
 Q.E.D.
+
+
+
